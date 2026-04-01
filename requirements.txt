@@ -1,0 +1,16 @@
+torch
+torchvision
+transformers
+imageio
+imageio[ffmpeg]
+safetensors
+einops
+sentencepiece
+modelscope==1.25.0
+ftfy
+pandas
+accelerate==1.6.0
+peft
+tqdm
+numpy==1.26.4
+wandb
