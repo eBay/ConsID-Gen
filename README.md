@@ -120,6 +120,7 @@ CUDA_VISIBLE_DEVICES=3 python run_train_considgen.py \
 ```
 
 ## Citation
+If you use the code or any part of the datasets, then please cite this paper in your work.
 
 ```bibtex
 @misc{wu2026considgenviewconsistentidentitypreservingimagetovideo,
