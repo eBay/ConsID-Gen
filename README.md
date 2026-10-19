@@ -123,13 +123,12 @@ CUDA_VISIBLE_DEVICES=3 python run_train_considgen.py \
 If you use the code or any part of the datasets, then please cite this paper in your work.
 
 ```bibtex
-@misc{wu2026considgenviewconsistentidentitypreservingimagetovideo,
-  title={ConsID-Gen: View-Consistent and Identity-Preserving Image-to-Video Generation},
-  author={Mingyang Wu and Ashirbad Mishra and Soumik Dey and Shuo Xing and Naveen Ravipati and Hansi Wu and Binbin Li and Zhengzhong Tu},
-  year={2026},
-  eprint={2602.10113},
-  archivePrefix={arXiv},
-  primaryClass={cs.CV},
-  url={https://arxiv.org/abs/2602.10113},
+@InProceedings{Wu_2026_CVPR,
+    author    = {Wu, Mingyang and Mishra, Ashirbad and Dey, Soumik and Xing, Shuo and Ravipati, Naveen and Wu, Hansi and Li, Binbin and Tu, Zhengzhong},
+    title     = {ConsID-Gen: View-Consistent and Identity-Preserving Image-to-Video Generation},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2026},
+    pages     = {1853-1863}
 }
 ```
