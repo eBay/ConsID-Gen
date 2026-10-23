@@ -6,7 +6,7 @@ imageio[ffmpeg]
 safetensors
 einops
 sentencepiece
-modelscope==1.25.0
+modelscope==1.27.0
 ftfy
 pandas
 accelerate==1.6.0
